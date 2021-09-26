@@ -9,4 +9,4 @@
   - 조건절이 없으면 전체 테이블 삭제
 
 # SELECT
-  - SELECT 컬럼명 FROM 테이블;
+  - SELECT 컬럼명 FROM 테이블명;
